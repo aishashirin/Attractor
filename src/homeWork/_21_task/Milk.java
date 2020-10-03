@@ -1,5 +1,4 @@
 package homeWork._21_task;
-
 public class Milk extends Product {
 
     public Milk(String name, int expirationDate, boolean inFridge) {
